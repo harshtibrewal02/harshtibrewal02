@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshtibrewal02
+- 👋 Hi, I’m Harsh Tibrewal.
 - 👀 I’m interested in WebDev.
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me harshtibrewal2003@gmail.com
