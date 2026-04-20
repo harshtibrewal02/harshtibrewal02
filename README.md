@@ -32,14 +32,6 @@
 
 ---
 
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshtibrewal02&theme=tokyonight" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
